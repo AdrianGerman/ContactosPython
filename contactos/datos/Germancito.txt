@@ -1,0 +1,3 @@
+Nombre: Germancito
+Teléfono: 7777777
+Categoría: NumPersonal
